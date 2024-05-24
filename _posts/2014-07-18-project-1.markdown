@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2024-05-08
+img: alcohol.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2024
+client: none
+category: Exploratory Data Analysis (EDA)
+description: In this project we see 
+-How the life expectancy of each country changes per decade
+-How is the income distributed each decade
+-Which countries consume the most/least alcohol
+-Make a summary if alcohol consumption and income affects life expectancy
+repository link: https://github.com/PanagiotisApostolou/Alcohol-and-Life-Expectancy-Project/tree/main
 ---
