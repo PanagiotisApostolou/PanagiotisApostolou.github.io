@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2024-05-20
+img: pirate.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2024
+client: none
+category: Interactive Dashboard
+description: Suppose you are being asked by a shipping company to show them when and where is safe for their ships to travel. By making a dashboard in Power BI we can easily discern those dangerous places as well as what hours are safe to sail and what ship status is more susceptible to pirate attacks.
+link: https://github.com/PanagiotisApostolou/Global-Maritime-Pirate-Attacks-1994-2020-
 ---
