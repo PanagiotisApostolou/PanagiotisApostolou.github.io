@@ -18,6 +18,7 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
 
+
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
@@ -40,15 +41,16 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/panagiotis--apostolou/
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/22359347/panagiotis
   - title: github
     url: https://github.com/PanagiotisApostolou
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/22359347/panagiotis
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Zografou Postal code 15 772
-  - line: Athens, Greece
+  - line: Zografou Athens, postal code 15 772
+  - line: Attiki, Greece
 
 # Credits content
 credits: 'Did you like the theme of the page? Get yours <a href="http://jekyllthemes.org/themes/freelancer/">here</a>.'
