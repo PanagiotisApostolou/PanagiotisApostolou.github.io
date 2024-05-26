@@ -482,17 +482,3 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-.image-container {
-    position: relative;
-    display: inline-block;
-    text-align: center; /* Optional: to center the text above the image */
-}
-.overlay-text {
-    position: absolute;
-    top: -30px; /* Adjust this value to control the distance above the image */
-    left: 50%;
-    transform: translateX(-50%);
-    color: yellow; /* Change this to your desired color */
-    font-size: 2em;
-    text-shadow: 2px 2px 4px #000000;
-}
