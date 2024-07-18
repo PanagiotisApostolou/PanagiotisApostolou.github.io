@@ -9,3 +9,4 @@ client: Agroknow
 category: LLM, RAG, Prompt Engineering, AI
 description: This is the final project for Data Science Full Time Bootcamp of BigBlueDataAcademy. Me and my colleague Michalis Kontis, were asked to make a Food Safety GenAI Assistant in the form of chatbot for Agroknow company. Below you will find the link of the presantation on Youtube.
 link: https://www.youtube.com/watch?v=4GHtX9EDkFs
+---
