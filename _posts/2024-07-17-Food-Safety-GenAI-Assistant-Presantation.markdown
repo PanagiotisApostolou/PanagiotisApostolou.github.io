@@ -7,6 +7,6 @@ alt: image-alt
 project-date: July 2024
 client: Agroknow
 category: Python, Vector Databases, LLMs, RAG, Prompt Engineering, Microsoft Azure, OpenAI, Docker
-description: Short-term Data Science consulting project in collaboration with Big Blue Data Academy. Developed and deployed a GenAI assistant that provides information on food safety topics like root cause analysis of a foodborne disease.
-link: No repository link for this project. Instead, here is the presantation in greek on this Youtube link https://www.youtube.com/watch?v=4GHtX9EDkFs
+description: Short-term Data Science consulting project in collaboration with Big Blue Data Academy. Developed and deployed a GenAI assistant that provides information on food safety topics like root cause analysis of a foodborne disease. No repository available for this project. Instead, you can find below the link of the presentation at BigBlueDataAcademy Youtube channel.
+link: https://www.youtube.com/watch?v=4GHtX9EDkFs
 ---
