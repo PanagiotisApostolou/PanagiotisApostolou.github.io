@@ -7,6 +7,6 @@ alt: image-alt
 project-date: May 2024
 client: none
 category: Interactive Dashboard, Power BI, Data Cleaning
-description: According to the International Maritime Bureau (IMB), piracy causes a loss of about $ 25 billion a year in global economic losses due to theft, ransoms, increased insurance costs, etc. Our goal is to analyze the phenomenon and help find some measures of reducing and preventing piracy by identifying the influencing factors behind attacks
+description: According to the International Maritime Bureau (IMB), piracy causes a loss of about $ 25 billion a year in global economic losses due to theft, ransoms, increased insurance costs, etc. Our goal is to analyze the phenomenon and help to create the right KPIs to prevent piracy by identifying the influencing factors behind attacks.
 link: https://github.com/PanagiotisApostolou/Global-Maritime-Pirate-Attacks-1994-2020-
 ---
